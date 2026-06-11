@@ -26,7 +26,7 @@ investigation using industry-standard tools.
 
 ## 🌐 Network Architecture
 
-![Network Diagram](Architecture/soc-architecture.png)
+![Network Diagram](/SOC-Home-Lab/Architecture/soc-architecture.png)
 
 ---
 
