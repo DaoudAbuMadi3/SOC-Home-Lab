@@ -41,8 +41,6 @@ forwarding logs to Splunk for monitoring.
 - Block LAN access to Splunk WebGUI; allow only the forwarder port (9997)
 - Default deny on all other traffic
 
-> Full rule sets per interface are screenshotted and stored in
-> `Architecture/firewall-rules/` for reference.
 
 ## NTP
 
